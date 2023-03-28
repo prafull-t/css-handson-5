@@ -170,7 +170,7 @@
 {
     height: 80px;
     width: 80px;
-    background-color: rgb(250, 205, 55);
+    background-color: rgb(101, 170, 11);
     margin: 10px;
 }
 
@@ -366,6 +366,11 @@ animation: car 2s infinite alternate linear;
     top: 59%;
     left: 52%;
     animation: car 2s infinite alternate linear;
+}
+
+.yellow
+{
+    background-color: rgb(255, 220, 103);
 }
 
 
